@@ -15,3 +15,4 @@
 - `yarn-project/kebab` - Proxy server sitting between falafel and ETH node.
 - `yarn-project/sdk` - SDK for interacting with a rollup provider.
 - `yarn-project/wasabi` - Load testing tool.
+test
